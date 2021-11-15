@@ -1,0 +1,94 @@
+body
+{
+background-color: rgb(128 128 128);
+}
+.mainbox {
+    width: 300px;
+    height: 600px;
+    border: red;
+    border-radius: 12%;
+    background-color: white;
+    padding: 70px;
+    margin: 500px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+.review {
+    width: 300px;
+    height: 50px;
+    padding: 7px;
+    margin-right: 1100px;
+   
+    background-color: papayawhip;
+}
+
+.Titletext {
+    text-align: center;
+    color: darkblue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -30px;
+}
+
+.subtext {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -15px;
+}
+
+.review
+{
+    background-color: rgba(247,242,248,252);
+    color:rgba(81,31,80,255);
+    font-size: x-small;
+    border-radius: 4%;
+    margin-top: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.profile {
+    width: 300px;
+    background-color: rgba(81,31,80,255);
+    font-size: xx-small;
+    border-radius: 5%;
+    padding: 15px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    margin-left: -15px;
+    margin-top: 40px;
+}
+
+.img
+{
+  clip-path: circle();
+    margin-left: -235px;
+
+}
+
+
+.username
+{
+    margin-left: 10px;
+    margin-top: -50px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.verifier
+{
+    margin-left: -10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+    margin-top: -10px;
+}
+
+.display
+{
+    margin-top: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: medium;
+} 
